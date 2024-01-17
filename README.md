@@ -18,6 +18,11 @@ $\geq$ - the above statement but with the dollar sign added on both sides of the
 - `$a_b$` is $a_b$ (subscript.. can be used to write chemical formulaes like $Ch_6$
 - `\neq` is $\neq$ (not equals to.. can be used when a != b)
 - `\int` is $\int$ (`$\int$`) or Integral Sign
+- `\lambda` is $\lambda$ (`$lambda`) or Lambda
+
+====
+
+### Misc Signs:
 - `\circ` is used to make a circle or degree symbol such as  $180^{\circ}$ (`$180^{\circ}$`)
 - `\space` is used to add spacing inside a mathematical expression.. $\int(x) \space + 1$ (`$\int(x) \space + 1$`)
 
