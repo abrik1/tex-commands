@@ -1,5 +1,5 @@
 # tex-commands
-Some useful commands for Texlive
+Some useful commands for \LaTex
 
 # Mathematical Symbols:
 - `$a^b$` is $a^b$ (exponents)
@@ -38,17 +38,17 @@ The available colors are `black, blue, brown, cyan, darkgray, gray, green, light
 \color{purple}This is a purple text\color{white}
 ```
 > ##### Preview:
-$$\color{red}This \space is \space a \space red \space text\color{white}$$
+$\color{red}This \space is \space a \space red \space text\color{white}$
 
-$$\color{orange}This \space is \space an \space orange \space text\color{white}$$
+$\color{orange}This \space is \space an \space orange \space text\color{white}$
 
-$$\color{yellow}This \space is \space a \space yellow \space text\color{white}$$
+$\color{yellow}This \space is \space a \space yellow \space text\color{white}$
 
-$$\color{green}This \space is \space a \space green \space text\color{white}$$
+$\color{green}This \space is \space a \space green \space text\color{white}$
 
-$$\color{blue}This \space is \space a \space blue \space text\color{white}$$
+$\color{blue}This \space is \space a \space blue \space text\color{white}$
 
-$$\color{purple}This \space is \space a \space purple \space text\color{white}$$
+$\color{purple}This \space is \space a \space purple \space text\color{white}$
 
 # Contributing:
 On this README.md you may add an section or fix some mistakes
