@@ -3,7 +3,8 @@ Some useful commands for Texlive
 
 # Mathematical Symbols:
 - `$a^b$` is $a^b$ (exponents)
-- `\int` is $\int$ (`$\int$`)
+- `$a_b$` is $a_b$ (subscript.. can be used to write chemical formulaes like $Ch_6$
+- `\int` is $\int$ (`$\int$`) or Integral Sign
 - `\circ` is used to make a circle or degree symbol such as  $180^{\circ}$ (`$180^{\circ}$`)
 - `\space` is used to add spacing inside a mathematical expression.. $\int(x) \space + 1$ (`$\int(x) \space + 1$`)
 
