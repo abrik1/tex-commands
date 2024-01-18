@@ -16,11 +16,13 @@ $\geq$ - the above statement but with the dollar sign added on both sides of the
 
 - `$a^b$` is $a^b$ (exponents)
 - `$a_b$` is $a_b$ (subscript.. can be used to write chemical formulaes like $Ch_6$
+- `\frac{first arg}{second arg}` is $\frac{first \space arg}{second \space arg}$ (fractions.. replace first arg and second arg by your expression)
 - `\neq` is $\neq$ (not equals to.. can be used when a != b)
 - `\int` is $\int$ (`$\int$`) or Integral Sign
 - `\lambda` is $\lambda$ (`$lambda`) or Lambda
+- `\infty` is $\infty$ or Infitnity
 
-====
+----
 
 ### Misc Signs:
 - `\circ` is used to make a circle or degree symbol such as  $180^{\circ}$ (`$180^{\circ}$`)
