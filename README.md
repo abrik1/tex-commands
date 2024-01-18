@@ -68,5 +68,26 @@ $\color{blue}This \space is \space a \space blue \space text\color{white}$
 
 $\color{purple}This \space is \space a \space purple \space text\color{white}$
 
+# Preamble
+Your preamble is where you setup your LaTeX envioment and packages, often its imported from a spereate file called `preamble.tex` using the `\input{}` command.
+
+## Vectors
+Creating vectors in LaTeX can be a hassle, use the folloing macros to make the process faster. This code introduces two new commands `\vec{}` and `\pvec{}`, `\vec{ab}` creates an arrow above your variable name like $\overrightarrow{ab}$ and `\pvec{}` creates a vector column such as `\pvec{3 \\ 4 \\ 1}` 
+
+![image](https://github.com/logicguy1/tex-commands/assets/56993729/ac1e5582-1560-4a0c-b7f4-17b5044c5ec8)
+
+Add the following code to your preamble after importing the `amsmath` (the amarecan mathmatical assosiation math package)
+```latex
+% Vectors
+\renewcommand{\vec}[1]{\overrightarrow{#1}}
+
+% Custom command for display vectors using pmatrix, use \pvec{1 \\ 2 \\ 3}
+\newcommand{\pvec}[1]{%
+  \begin{pmatrix}
+  #1
+  \end{pmatrix}%
+}
+```
+
 # Contributing:
 On this README.md you may add an section or fix some mistakes
