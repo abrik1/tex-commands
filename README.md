@@ -29,6 +29,7 @@ $\geq$ - the above statement but with the dollar sign added on both sides of the
 - `\circ` is used to make a circle or degree symbol such as  $180^{\circ}$ (`$180^{\circ}$`)
 - `\square` is used to make a square.. like: $\square$
 - `\space` is used to add spacing inside a mathematical expression.. $\int(x) \space + 1$ (`$\int(x) \space + 1$`)
+- `\rightarrow` is $\rightarrow$ (Right Arrow)
 - `\leftarrow` is $\leftarrow$ (Left Arrow)
 
 # Text Coloring:
