@@ -22,6 +22,7 @@ $\geq$ - the above statement but with the dollar sign added on both sides of the
 - `\lambda` is $\lambda$ (`$lambda`) or Lambda
 - `\infty` is $\infty$ or Infitnity
 - `\pi` is $\pi$ or `pi`.. can be used to write the formula for circle's area($\pi r^2$)
+- `\sum` is $\sum$ or Sumation
 
 ----
 
