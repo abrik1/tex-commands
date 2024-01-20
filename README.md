@@ -12,7 +12,7 @@ $\geq$ - the above statement but with the dollar sign added on both sides of the
 
 ----
 
-## Commands:
+## Mathematical Symbols:
 
 - `$a^b$` is $a^b$ (exponents)
 - `$a_b$` is $a_b$ (subscript.. can be used to write chemical formulaes like $Ch_6$
@@ -25,10 +25,11 @@ $\geq$ - the above statement but with the dollar sign added on both sides of the
 
 ----
 
-### Misc Signs:
+### Misc Symbols:
 - `\circ` is used to make a circle or degree symbol such as  $180^{\circ}$ (`$180^{\circ}$`)
 - `\square` is used to make a square.. like: $\square$
 - `\space` is used to add spacing inside a mathematical expression.. $\int(x) \space + 1$ (`$\int(x) \space + 1$`)
+- `\leftarrow` is $\leftarrow$ (Left Arrow)
 
 # Text Coloring:
 **NOTE:** in order for colorization you must add package `xcolor`
